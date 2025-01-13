@@ -34,7 +34,7 @@ const Navbar = () => {
           <MdPhoneInTalk size={24} />
           <span><a href="tel:+919100094789">9100094789</a></span>
           <span><p> Or </p></span>
-          <span><a href="tel:+919398808712">9398808712</a></span>
+          <span><a href="tel:+919398808712">9492262019</a></span>
         </div>
       </div>
       <div className='ori__navbar'>
