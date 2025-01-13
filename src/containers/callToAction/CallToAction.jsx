@@ -15,7 +15,7 @@ const CallToAction = () => {
       <div className='ori__cta_container'>
         <div className='ori__cta_container-num'>
           <span><FiPhoneCall size={22} color='#fff' /></span>
-          <a href="tel:+91">9100094789</a>
+          <a href="tel:+91">9492262019</a>
         </div>
         <div className='ori__cta_container-callback'>
           <Button onClick={() => navigate('contact-page')} text='Schedule Inspection' />
